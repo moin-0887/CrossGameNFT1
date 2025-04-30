@@ -57,4 +57,4 @@ Our vision is to foster a vibrant, player-centric gaming ecosystem where digital
 - Creation of privacy-preserving features for sensitive utility data
 - Enhanced security measures to protect high-value NFTs across ecosystems
 
-## Contract Details : 
+## Contract Details : 0xd9145CCE52D386f254917e481eB44e9943F39138
